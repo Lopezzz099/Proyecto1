@@ -32,7 +32,24 @@ footer{
     height: auto;
 }
 
-.estiloespecial{
+.piola{
     color: blue;
     font-size: 20px;
+}
+
+.titulo{
+    color: rgb(0, 0, 255);
+    font-size: 35px;
+
+}
+
+.puntos{
+    color: rgb(57, 33, 166);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.piola{
+    color: green;
+    font-size: 25px;
 }
